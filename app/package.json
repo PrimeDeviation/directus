@@ -131,7 +131,7 @@
 		"micromustache": "8.0.3",
 		"mime": "4.0.4",
 		"mitt": "3.0.1",
-		"nanoid": "5.0.7",
+		"nanoid": "5.0.9",
 		"ofetch": "1.4.1",
 		"p-queue": "8.0.1",
 		"pinia": "2.2.4",
